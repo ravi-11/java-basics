@@ -12,6 +12,10 @@ public class Number {
 		System.out.println("Sum: "+ n);
 		n++;
 		System.out.println("Sum: "+ n);
+
+		//this would be interesting
+		n--;
+		System.out.println("Sum: "+ n);
 		
 	}
 }
