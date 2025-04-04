@@ -14,7 +14,7 @@ public class Arrays {
 				System.out.println(arr[i]);
 			}
 			
-		} catch (Exception e) {
+		} catch (Thowable e) {
 			System.out.println("Exception: "+ e);
 			e.printStackTrace();
 		}
